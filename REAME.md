@@ -1,6 +1,8 @@
  Xin chào, mình là Phạm Thị Hoài Thương
+ 
 🚀 Giới thiệu
 Mình là sinh viên năm 4 ngành Công nghệ thông tin, trường Đại học Ngoại ngữ - Tin học Thành phố Hồ Chí Minh. Mình đang tìm kiếm một cơ hội để học tập và phát triển trong một môi trường mới với nhiều kiến thức và thách thức hơn.
+
 💼 Học vấn
 
 Đại học Ngoại ngữ – Tin học Thành phố Hồ Chí Minh (HUFLIT)
