@@ -21,11 +21,13 @@ UX/UI
         •	Photoshop, Illustrator
         
 Developer
+
         •	HTML/CSS, Dart
         •	Flutter, JavaScript (JS)
         •	C#, JavaScript, Java
         
 Tiếng Anh
+
         •	Có khả năng đọc hiểu tài liệu và giao tiếp Tiếng Anh
         
 🌟 Kinh nghiệm làm việc
